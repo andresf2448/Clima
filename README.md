@@ -12,9 +12,9 @@ Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap 
 
 ## Pasos para inicializar el proyecto
 
-*asdf
-*adsf
-*asdf
+- asdf
+* adsf
+-asdf
 
 
 
