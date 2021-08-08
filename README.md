@@ -1,9 +1,15 @@
 ## Weather APP
+![image](https://user-images.githubusercontent.com/58791994/128620386-a47e4af2-dc96-4172-96e4-3b2ba40608ca.png)
 
 
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/58791994/128620358-cf24607c-7f74-47e7-97a3-0d31dce3a1bd.png" alt="Principal" width="30%"/>
+<img align="center" src="https://user-images.githubusercontent.com/58791994/128620386-a47e4af2-dc96-4172-96e4-3b2ba40608ca.png" alt="Home" width="30%"/>
+<img align="right" src="https://user-images.githubusercontent.com/58791994/124400542-1f3bee00-dcd8-11eb-8ba2-9bb2df37bdfc.png" alt="Form" width="30%"/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/58791994/128620358-cf24607c-7f74-47e7-97a3-0d31dce3a1bd.png">
-<img src="https://user-images.githubusercontent.com/58791994/128620297-7ec6254d-b955-4e59-9a99-7a5f3be42157.png" width="33%" height="200px">
+![image](https://user-images.githubusercontent.com/58791994/128620398-ca2cb37b-ff73-477a-a8f5-df48644f8b4e.png)
+
 
 Se desarrolló una **SPA** responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestion donde destaca principalmente su temperatura.
 
