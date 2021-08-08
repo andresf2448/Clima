@@ -5,7 +5,10 @@
 
 ## Responsive
 
-<img align="center" src="https://user-images.githubusercontent.com/58791994/128620479-7913f300-8a87-432b-b39a-414506b279f3.png"/>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58791994/128620479-7913f300-8a87-432b-b39a-414506b279f3.png"/>
+</p>
+
 
 
 
