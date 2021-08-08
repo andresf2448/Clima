@@ -1,6 +1,6 @@
 # Weather APP
 
-Se desarrolló una **SPA** responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestion donde destaca principalmente su temperatura.
+Se desarrolló una **SPA** responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región donde destaca principalmente su temperatura.
 
 <img src="https://user-images.githubusercontent.com/58791994/128620358-cf24607c-7f74-47e7-97a3-0d31dce3a1bd.png"/>
 <img src="https://user-images.githubusercontent.com/58791994/128620386-a47e4af2-dc96-4172-96e4-3b2ba40608ca.png"/>
@@ -16,7 +16,7 @@ Se desarrolló una **SPA** responsive en la cual se puede ingresar el nombre de 
 
 ## Caracteristicas
 
-En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
+En las consultas a la API además se puede observar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
 
 ## Tecnologías empleadas
 
@@ -26,12 +26,5 @@ Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap 
 
 1. Clonar el repositorio.
 2. En la ubicación del package.json ejecutar el comando npm install.
-3. Ejecutar el comando npm start.
+3. En la ubicación del package.json ejecutar el comando npm start.
 4. Listo!!!
-
-
-
-
-
-
-
