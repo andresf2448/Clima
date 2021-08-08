@@ -20,11 +20,10 @@ En las consultas a la API además se puede observar detalles del lugar tales com
 
 ## Tecnologías empleadas
 
+Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap y una API del clima llamada Weather API (https://openweathermap.org/api).
 | <img src="https://user-images.githubusercontent.com/69209369/116448789-e000a500-a82f-11eb-88f1-0936293d47bc.png" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/69209369/116448815-e858e000-a82f-11eb-939d-e6e93abb25c4.png" width="60" alt="CSS"> | <img src="https://user-images.githubusercontent.com/69209369/116448732-d1b28900-a82f-11eb-942c-025060103d98.png" width="50" alt="JS">  | <img src="https://user-images.githubusercontent.com/69209369/116448711-ccedd500-a82f-11eb-8a08-b53db08f6156.png" width="60" alt="REACT"> | <img src="https://user-images.githubusercontent.com/76981775/128621293-66634e26-c38b-444a-9a6c-81f89389d996.png" width="60" alt="REACT"> |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
 | HTML  | CSS | JavaScript  | React Js | Bootstrap |
-
-Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap y una API del clima llamada Weather API (https://openweathermap.org/api).
 
 ## Pasos para inicializar el proyecto (Se necesita tener instalado nodeJs):
 
