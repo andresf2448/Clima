@@ -14,7 +14,7 @@ Se desarrolló una **SPA** responsive en la cual se puede ingresar el nombre de 
 <img src="https://user-images.githubusercontent.com/58791994/128620556-dacd2858-7d5f-458b-8e70-7ba083c92c8d.png"/>
 </p>
 
-## Caracteristicas
+## Características
 
 En las consultas a la API además se puede observar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
 
