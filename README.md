@@ -12,9 +12,13 @@ Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap 
 
 ## Pasos para inicializar el proyecto
 
-- asdf
-* adsfasdf
--asdfsdfdf
+<ul>
+  <li>asdf</li>
+  <li>f</li>
+  <li>f</li>
+  <li>f</li>
+</ul>
+
 
 
 
