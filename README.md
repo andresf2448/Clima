@@ -12,12 +12,10 @@ Para realizar el proyecto se utilzó React Js, JavaScript, CSS, HTML, Bootstrap 
 
 ## Pasos para inicializar el proyecto
 
-<ul>
-  <li>asdf</li>
-  <li>f</li>
-  <li>f</li>
-  <li>f</li>
-</ul>
+1. Clonar el repositorio.
+2. En la ubicación del package.json ejecutar el comando npm install.
+3. Ejecutar el comando npm start.
+4. Listo!!!
 
 
 
